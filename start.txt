@@ -1,1 +1,2 @@
 Test Git Quick Start
+Test Git Quick Start edited in the text editor of GitHub
